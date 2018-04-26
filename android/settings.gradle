@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeBucket'
+
+include ':app'
